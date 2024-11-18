@@ -1,1 +1,1 @@
-This is Clash of Clans image detector
+This is Clash of Clans object detector
