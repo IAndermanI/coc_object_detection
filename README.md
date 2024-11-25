@@ -19,3 +19,5 @@ The project made during the CV course in Innopolis University as a course projec
   <li><b><i>training_example.ipynb</i></b> - example of training and testing initial YOLO11 model on our dataset</li>
   <li><b><i>report.pdf</i></b> - report about work done on the project</li>
 </ul>
+
+<img src="https://i.ibb.co/D4MgdwQ/example.png" alt="example" border="0">
