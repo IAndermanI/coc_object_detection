@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['air_defense', 'air_sweeper', 'archer_tower', 'army_camp', 'barracks', 'builders_hut', 'cannon', 'clan_castle', 'dark_barracks', 'dark_elixir_drill', 'dark_elixir_storage', 'dark_spell_factory', 'elixir_collector', 'elixir_storage', 'gold_mine', 'gold_storage', 'laboratory', 'mortar', 'spell_factory', 'town_hall', 'wizard_tower', 'x-bow']
+
+roboflow:
+  workspace: coc-2fz7c
+  project: coc-object-detection-ypfix
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/coc-2fz7c/coc-object-detection-ypfix/dataset/4
